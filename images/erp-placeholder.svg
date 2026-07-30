@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 864" role="img" aria-label="School ERP System preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F24"/>
+      <stop offset="100%" stop-color="#1A1F35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFC6"/>
+      <stop offset="100%" stop-color="#4A90E2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1536" height="864" fill="url(#bg)"/>
+  <circle cx="220" cy="180" r="160" fill="#00FFC6" fill-opacity="0.10"/>
+  <circle cx="1320" cy="700" r="220" fill="#4A90E2" fill-opacity="0.10"/>
+  <rect x="90" y="90" width="1356" height="684" rx="40" fill="none" stroke="url(#accent)" stroke-width="6" stroke-dasharray="18 14" stroke-opacity="0.4"/>
+  <rect x="190" y="235" width="1156" height="338" rx="28" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="240" y="292" width="370" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.18"/>
+  <rect x="240" y="360" width="1040" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="240" y="410" width="880" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="240" y="460" width="720" height="24" rx="12" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="768" y="155" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="58" font-weight="700">School ERP System</text>
+  <text x="768" y="205" text-anchor="middle" fill="#B0B3C1" font-family="Arial, sans-serif" font-size="30">Project screenshot not available</text>
+  <text x="768" y="704" text-anchor="middle" fill="#00FFC6" font-family="Arial, sans-serif" font-size="34" font-weight="700">Integrated academic workflows and role-based dashboards</text>
+</svg>
